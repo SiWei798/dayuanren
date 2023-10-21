@@ -16,8 +16,16 @@
 <p dir="auto">2.配置接口套餐</br>参数1：产品ID；（可登录渠道后台查看产品列表获取产品ID）</br>参数2：面值(非必填)；</br>参数3：价格(非必填)</br></p>
 <p dir="auto"><a target="_blank" rel="noopener noreferrer nofollow" href="https://raw.githubusercontent.com/SiWei798/dayuanren/main/pages/Snipaste_2023-10-21_11-06-43.png"><img src="https://raw.githubusercontent.com/SiWei798/dayuanren/main/pages/Snipaste_2023-10-21_11-06-43.png" alt="配置接口套餐" data-canonical-src="https://raw.githubusercontent.com/SiWei798/dayuanren/main/pages/Snipaste_2023-10-21_11-06-43.png" style="max-width: 100%;"></a></p>
 
-<p dir="auto">3.新增产品套餐</br>新增套餐分类：套餐-套餐管理-分类管理-新增；编辑完成后保存即可</br></p>
+<p dir="auto">3.新增产品套餐</br>流程：套餐-套餐管理-分类管理-新增；编辑完成后保存即可</br></p>
 <p dir="auto"><a target="_blank" rel="noopener noreferrer nofollow" href="https://raw.githubusercontent.com/SiWei798/dayuanren/main/pages/Snipaste_2023-10-21_11-12-21.png"><img src="https://raw.githubusercontent.com/SiWei798/dayuanren/main/pages/Snipaste_2023-10-21_11-12-21.png" alt="新增产品套餐" data-canonical-src="https://raw.githubusercontent.com/SiWei798/dayuanren/main/pages/Snipaste_2023-10-21_11-12-21.png" style="max-width: 100%;"></a></p>
+
+<p dir="auto">新增套餐</br>流程：套餐-套餐管理-新增产品；编辑完成后保存即可</br></p>
+<p dir="auto"><a target="_blank" rel="noopener noreferrer nofollow" href="https://raw.githubusercontent.com/SiWei798/dayuanren/main/pages/Snipaste_2023-10-21_11-18-56.png"><img src="https://raw.githubusercontent.com/SiWei798/dayuanren/main/pages/Snipaste_2023-10-21_11-18-56.png" alt="新增套餐" data-canonical-src="https://raw.githubusercontent.com/SiWei798/dayuanren/main/pages/Snipaste_2023-10-21_11-18-56.png" style="max-width: 100%;"></a></p>
+
+<p dir="auto">配置接口套餐</br>流程：套餐-套餐管理-新增产品；编辑完成后保存即可</br></p>
+<p dir="auto"><a target="_blank" rel="noopener noreferrer nofollow" href="https://raw.githubusercontent.com/SiWei798/dayuanren/main/pages/Snipaste_2023-10-21_11-23-16.png"><img src="https://raw.githubusercontent.com/SiWei798/dayuanren/main/pages/Snipaste_2023-10-21_11-23-16.png" alt="新增套餐" data-canonical-src="https://raw.githubusercontent.com/SiWei798/dayuanren/main/pages/Snipaste_2023-10-21_11-23-16.png" style="max-width: 100%;"></a></p>
+
+
 
 
 
